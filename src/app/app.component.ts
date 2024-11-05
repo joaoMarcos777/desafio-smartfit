@@ -7,6 +7,8 @@ import { Location } from './types/location.interface';
 import { CardsListComponent } from './components/cards-list/cards-list.component';
 import { CommonModule } from '@angular/common';
 import { BehaviorSubject } from 'rxjs';
+import { LegendComponent } from './components/legend/legend.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @Component({
   selector: 'app-root',
@@ -17,6 +19,8 @@ import { BehaviorSubject } from 'rxjs';
     HeaderComponent,
     FormsComponent,
     CardsListComponent,
+    LegendComponent,
+    FooterComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
