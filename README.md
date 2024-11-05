@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="#tech">Technologies</a> • 
- <a href="#started">Getting Started</a> • 
+ <a href="#started">Getting Started</a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
     <img src="./.github/img2.png" alt="Image Example" width="400px">
 </p>
 
-<h2 id="technologies">💻 Technologies</h2>
+<h2 id="tech">💻 Technologies</h2>
 
 - Angular
 
